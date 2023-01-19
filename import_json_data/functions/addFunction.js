@@ -8,3 +8,4 @@ async function addData(data) {
   }
 
   module.exports.addData = addData;
+  
